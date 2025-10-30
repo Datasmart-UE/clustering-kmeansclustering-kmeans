@@ -19,6 +19,6 @@ Files
 	•	iris_kmeans.py: Python script containing the full code to perform the clustering analysis.
 	•	README.md: Project documentation (this file).
 Author
-Andres Martin Llases (@Garrix003)
+Andres Martin Llases 
 
 This project was created for educational purposes and to practice clustering techniques with Python and machine learning libraries.
